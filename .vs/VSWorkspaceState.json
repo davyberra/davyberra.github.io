@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\forms"
+    "\\assets\\css",
+    "\\assets\\img",
+    "\\assets\\js",
+    "\\assets\\vendor",
+    "\\assets\\vendor\\bootstrap"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\assets\\img\\favicon.png",
   "PreviewInSolutionExplorer": false
 }
